@@ -1,0 +1,29 @@
+{
+  "slug": "fizzora",
+  "title": "Fizzora",
+  "tagline": "A cold-drink landing page where the can cracks open on scroll — fizz, flavour swaps and a pour over ice.",
+  "kind": "site",
+  "category": "Food & Beverage",
+  "description": "A single cinematic landing page for a sparkling soda brand. A procedural aluminium can drops into a red studio full of ice, spins to show its printed label, then the camera rises over the lid: the tab lifts, the panel pushes in and a fountain of fizz erupts. The label refills from the bottom up through three flavours (Cherry Cola, Blood Orange, Raspberry Zero) with matching fruit orbiting the can, then the can tips and pours into a glass over ice. Finale: pack picker, Fizz Club signup. No 3D model files — can, ice, fruit and glass are all built in code.",
+  "accent": "#ef1a35",
+  "tags": [
+    "beverage",
+    "soda",
+    "cold drink",
+    "landing page",
+    "product",
+    "fizz",
+    "red"
+  ],
+  "stack": [
+    "Next.js 16",
+    "three.js",
+    "GSAP ScrollTrigger",
+    "SplitText",
+    "Lenis",
+    "Tailwind v4"
+  ],
+  "credits": [],
+  "license": "MIT",
+  "access": "free"
+}
